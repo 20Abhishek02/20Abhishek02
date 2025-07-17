@@ -98,7 +98,8 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/20Abhishek02/20Abhishek02/output/snake.svg" alt="Snake animation" />
+**<img src="https://raw.githubusercontent.com/20Abhishek02/20Abhishek02/output/snake.svg" alt="Snake animation" />**![Snake animation](https://github.com/20Abhishek02/20Abhishek02/blob/output/snake.svg?raw=true)
+
 
 ###
 
