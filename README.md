@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="center" height="165" src="https://i.imgflip.com/a0htel.gif"  />
+<img align="right" height="165" src="https://i.imgflip.com/a0htel.gif"  />
 
 ###
 
@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=20Abhishek02&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=20Abhishek02&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=20Abhishek02&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -52,6 +50,9 @@ Here are some ideas to get you started:
 ###
 
 <img src="https://raw.githubusercontent.com/20Abhishek02/20Abhishek02/output/snake.svg" alt="Snake animation" />
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🧠 About Me
 - 🎓 B.E in Computer Science from Chandigarh University  
