@@ -2,24 +2,30 @@ name: 🐍 Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # every day at midnight
+  workflow_dispatch:     # allows manual trigger
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # important for committing with PAT
+          fetch-depth: 0              # fetches full history, needed for commit
+
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: 20Abhishek02
           outputs: |
             ./output/snake.svg
 
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
+      - name: Push the generated snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "Generated snake.svg"
-          add: "output/snake.svg"
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
