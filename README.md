@@ -98,9 +98,8 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-### 🐍 GitHub Contribution Snake
-
 ![Snake animation](https://github.com/20Abhishek02/20Abhishek02/blob/output/snake.svg?raw=true)
+
 
 
 ###
