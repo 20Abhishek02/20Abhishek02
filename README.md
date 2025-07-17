@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="centre" height="165" src="https://i.imgflip.com/a0htel.gif"  />
+<img align="center" height="165" src="https://i.imgflip.com/a0htel.gif"  />
 
 ###
 
