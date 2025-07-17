@@ -1,14 +1,13 @@
 ## Hi there, I am Abhishek 👋
 
-**🔭 I’m currently working as a Full Stack Developer at Nutanix, building scalable web platforms and integrating cloud-native solutions.
-🌱 I’m expanding my skills in AWS & Nutanix Cloud Services, Generative AI, and high-performance backend systems.
-👯 I’m looking to collaborate on open-source tools, developer productivity platforms, and AI-driven automation projects.
-🤔 I’m exploring ways to optimize distributed architectures, enhance DevOps pipelines, and integrate multilingual support in web apps.
-💬 Ask me about JavaScript/TypeScript, React, Node.js, Python, REST/GraphQL APIs, CI/CD, Docker, and system design.
-📫 How to reach me: abhip5220@gmail.com or LinkedIn
-😄 Pronouns: He/Him**
-
-**⚡ Fun fact: I was part of the top 4 teams nationwide in a Police Hackathon and won “Innovator of the Year 2023” at CU.**
+- 🔭 I’m currently working as a **Full Stack Developer at Nutanix**, building scalable web apps and cloud-integrated platforms.
+- 🌱 I’m currently learning **AWS & Nutanix Cloud Services**, **Generative AI**, and **modern backend architectures**.
+- 👯 I’m looking to collaborate on **open-source dev tools**, **AI-powered automation projects**, and **scalable web platforms**.
+- 🤔 I’m exploring areas like **distributed systems**, **DevOps optimization**, and **multilingual support in full-stack apps**.
+- 💬 Ask me about **JavaScript, React, Node.js, Python, Flask, Docker, CI/CD, and system design**.
+- 📫 How to reach me: **[abhip5220@gmail.com](mailto:abhip5220@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/abhishek1121)**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: Part of the **top 4 teams nationwide** in a Police Hackathon and awarded **“Innovator of the Year 2023”** at CU.
 
 <h2 align="left">Hi 👋! My name is Abhishek Pandey and I'm a Full Stack Web Developer</h2>
 
