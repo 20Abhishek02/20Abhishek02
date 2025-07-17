@@ -1,20 +1,15 @@
-## Hi there 👋
+## Hi there, I am Abhishek 👋
 
-<!--
-**20Abhishek02/20Abhishek02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🔭 I’m currently working as a Full Stack Developer at Nutanix, building scalable web platforms and integrating cloud-native solutions.
+🌱 I’m expanding my skills in AWS & Nutanix Cloud Services, Generative AI, and high-performance backend systems.
+👯 I’m looking to collaborate on open-source tools, developer productivity platforms, and AI-driven automation projects.
+🤔 I’m exploring ways to optimize distributed architectures, enhance DevOps pipelines, and integrate multilingual support in web apps.
+💬 Ask me about JavaScript/TypeScript, React, Node.js, Python, REST/GraphQL APIs, CI/CD, Docker, and system design.
+📫 How to reach me: abhip5220@gmail.com or LinkedIn
+😄 Pronouns: He/Him**
 
-Here are some ideas to get you started:
+**⚡ Fun fact: I was part of the top 4 teams nationwide in a Police Hackathon and won “Innovator of the Year 2023” at CU.**
 
-- 🔭 I’m currently working on a **Sign Language Interpreter** project using ML, OpenCV, and speech-to-text integration.
-- 🌱 I’m currently learning **AWS Cloud Services**, **Generative AI**, and **modern full-stack frameworks**.
-- 👯 I’m looking to collaborate on **AI-based accessibility projects**, **open-source web tools**, and **PDF/NLP automation pipelines**.
-- 🤔 I’m looking for help with **optimizing large-scale AI models** and **enhancing multilingual sign recognition**.
-- 💬 Ask me about **Python, Flask, AI/ML, Git, full-stack development, and project architecture**.
-- 📫 How to reach me: **[abhip5220@gmail.com](mailto:abhip5220@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/abhishek1121)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I was selected as **one of the top 4 teams nationwide** in a Police Hackathon and won **“Innovator of the Year 2023”** at CU.
-
--->
 <h2 align="left">Hi 👋! My name is Abhishek Pandey and I'm a Full Stack Web Developer</h2>
 
 ###
