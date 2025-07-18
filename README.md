@@ -60,9 +60,10 @@ const Abhishek_Pandey = {
 ```
 #
 
-<img align="right" height="165" src="https://i.imgflip.com/a0htel.gif"  />
+<img align="right" src="https://i.imgflip.com/a0htel.gif" width="320" style="margin-left: 20px; margin-bottom: 10px;" />
 
-# 📊 GitHub Stats:
+
+###  📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=20Abhishek02&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=20Abhishek02&theme=swift&hide_border=false)<br/>
