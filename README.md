@@ -57,10 +57,11 @@ const Abhishek_Pandey = {
     }
 };
 ```
-###
+---
+###ProfilePic
 
 <img align="right" height="165" src="https://i.imgflip.com/a0htel.gif"  />
-
+---
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=20Abhishek02&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -68,7 +69,8 @@ const Abhishek_Pandey = {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=20Abhishek02&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 <div align="center">
-## 🛠️ Tech Stack & Tools
+  
+**🛠️ Tech Stack & Tools**
 
 ### 💼 Professional Work Stack
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
