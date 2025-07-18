@@ -2,7 +2,7 @@
   
 # 🚀 Welcome to Abhishek Pandey Code Universe! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;.NET+Web+API+Expert+%F0%9F%94%A7;Angular+Frontend+Developer+%E2%9A%A1;Laravel+%26+Next.js+Freelancer+%F0%9F%92%BC;CodeCanyon+Author+%E2%AD%90;Always+Building+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;expert+in+HTML+CSS+Javascript+%F0%9F%94%A7;React+Frontend+Developer+%E2%9A%A1;Next.js+Freelancer+%F0%9F%92%BC;Always+Building+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
