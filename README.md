@@ -9,7 +9,7 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: Part of the **top 4 teams nationwide** in a Police Hackathon and awarded **“Innovator of the Year 2023”** at CU.
 
-<h2 align="left">Hi 👋! My name is Abhishek Pandey and I'm a Full Stack Web Developer</h2>
+<h2 align="left">Hi 👋! I'm a Full Stack Web Developer</h2>
 
 ###
 
