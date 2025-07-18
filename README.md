@@ -6,23 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=20Abhishek02&color=blueviolet&style=for-the-badge)](https://github.com/20Abhishek02)
-[![GitHub followers](https://img.shields.io/github/followers/20Abhishek02?style=for-the-badge&color=blue)](https://github.com/b)
-
-</div>
-
----
-
-###
-
-<img align="right" height="165" src="https://i.imgflip.com/a0htel.gif"  />
-
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=20Abhishek02&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=20Abhishek02&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=20Abhishek02&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
 ### 🎭 About Me
 
 ```javascript
@@ -69,6 +52,25 @@ const Abhishek_Pandey = {
 };
 ```
 <div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=20Abhishek02&color=blueviolet&style=for-the-badge)](https://github.com/20Abhishek02)
+[![GitHub followers](https://img.shields.io/github/followers/20Abhishek02?style=for-the-badge&color=blue)](https://github.com/b)
+
+</div>
+
+---
+
+###
+
+<img align="right" height="165" src="https://i.imgflip.com/a0htel.gif"  />
+
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=20Abhishek02&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=20Abhishek02&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=20Abhishek02&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ### 💼 Professional Work Stack
