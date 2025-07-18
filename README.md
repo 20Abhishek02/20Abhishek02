@@ -6,6 +6,12 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
+[![Profile Views](https://komarev.com/ghpvc/?username=20Abhishek02&color=blueviolet&style=for-the-badge)](https://github.com/20Abhishek02)
+[![GitHub followers](https://img.shields.io/github/followers/20Abhishek02?style=for-the-badge&color=blue)](https://github.com/b)
+
+</div>
+---
+
 ### 🎭 About Me
 
 ```javascript
@@ -52,13 +58,6 @@ const Abhishek_Pandey = {
 };
 ```
 <div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=20Abhishek02&color=blueviolet&style=for-the-badge)](https://github.com/20Abhishek02)
-[![GitHub followers](https://img.shields.io/github/followers/20Abhishek02?style=for-the-badge&color=blue)](https://github.com/b)
-
-</div>
-
----
 
 ###
 
