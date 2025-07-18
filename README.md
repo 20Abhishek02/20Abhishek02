@@ -10,9 +10,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/20Abhishek02?style=for-the-badge&color=blue)](https://github.com/b)
 
 </div>
+
 ---
 
-### 🎭 About Me
+# 🎭 About Me
 
 ```javascript
 const Abhishek_Pandey = {
@@ -57,11 +58,11 @@ const Abhishek_Pandey = {
     }
 };
 ```
-###
+#
 
 <img align="right" height="165" src="https://i.imgflip.com/a0htel.gif"  />
 
-### 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=20Abhishek02&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=20Abhishek02&theme=swift&hide_border=false)<br/>
@@ -69,7 +70,7 @@ const Abhishek_Pandey = {
 ---
 <div align="center">
   
-### **🛠️ Tech Stack & Tools**
+# **🛠️ Tech Stack & Tools**
 
 ### 💼 Professional Work Stack
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -105,7 +106,7 @@ const Abhishek_Pandey = {
 
 <div align="center">
   
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=20Abhishek02&theme=tokyo-night&hide_border=true)
 
@@ -115,7 +116,7 @@ const Abhishek_Pandey = {
 
 <div align="center">
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/724471425808990248) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/wiseplayyt/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek1121/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@WisePlayYT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhip5220@gmail.com) 
 
 </div>
@@ -123,7 +124,7 @@ const Abhishek_Pandey = {
 ---
 <div align="center">
   
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=20Abhishek02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=20Abhishek02&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -131,7 +132,7 @@ const Abhishek_Pandey = {
 
 ---
 
-###
+#
 
 <img src="https://raw.githubusercontent.com/20Abhishek02/20Abhishek02/output/snake.svg" alt="Snake animation" />
 ---
